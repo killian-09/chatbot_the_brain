@@ -1,0 +1,20 @@
+{
+  "questions": [
+    {
+      "question": "hello",
+      "answer": "hello there!"
+    },
+    {
+      "question": "how are you?",
+      "answer": "I'm Great!"
+    },
+    {
+      "question": "whats your name?",
+      "answer": "I'm the brain."
+    },
+    {
+      "question": "what courses do you offer?",
+      "answer": "we offer several courses, like BSIT, BSAB, BPA, and DIT."
+    }
+  ]
+}
